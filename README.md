@@ -88,7 +88,7 @@ The frontend will be running at `http://localhost:5173` 🚀
 
 ## 📸 Screenshots
 
-![App Screenshot](https://via.placeholder.com/800x400?text=Awesome+Items+App)
+![App Screenshot](https://prnt.sc/sALXZFP8kY3j)
 
 ## 🔮 Future Enhancements
 
